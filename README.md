@@ -40,7 +40,7 @@ I'm a Software Engineering graduate from Refactory Academy (Uganda) with a passi
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=keren3-alpha&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keren3-alpha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/top-langs/?username=keren3-alpha&layout=compact&theme=radical)
 
 ---
 
