@@ -36,12 +36,6 @@ I'm a Software Engineering graduate from Refactory Academy (Uganda) with a passi
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=keren3-alpha&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/top-langs/?username=keren3-alpha&layout=compact&theme=radical)
-
 ---
 
 ## 🏆 Featured Projects
