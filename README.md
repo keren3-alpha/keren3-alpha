@@ -1,20 +1,20 @@
 # 👋 Hi there, I'm Godi Keren Alpha
 
-### 💻 Backend Developer | Python & Django Enthusiast
+###  Backend Developer | Python & Django Enthusiast
 
 I'm a Software Engineering graduate from Refactory Academy (Uganda) with a passion for building robust backend systems, APIs, and solving real-world problems through code. I'm currently open to junior developer roles and exciting freelance projects.
 
 ---
 
-## 🔭 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 📱 Building and refining my portfolio of Django applications.
-- 🐍 Deepening my expertise in Python, Django, and REST APIs.
-- ☁️ Exploring cloud technologies like Microsoft Azure.
+-  Building and refining my portfolio of Django applications.
+-  Deepening my expertise in Python, Django, and REST APIs.
+-  Exploring cloud technologies like Microsoft Azure.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,20 +38,21 @@ I'm a Software Engineering graduate from Refactory Academy (Uganda) with a passi
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-- **[El-Roi Interior Design Website](https://github.com/keren3-alpha/El-Roi-website)**  
+- **[E-Commerce Platform](https://joineki.com/)**  
+  A full-stack e-commerce web app with payment integration and REST APIs.
+  
+- **[El-Roi Interior Design Website](https://cherubin.pythonanywhere.com/)**  
   A fully responsive interior design portfolio with GSAP animations and a contact form.
 
-- **[E-Commerce Platform](https://github.com/keren3-alpha/ecommerce)**  
-  A full-stack e-commerce web app with payment integration and REST APIs.
 
-- **[Inventory Management System](https://github.com/keren3-alpha/inventory-system)**  
+- **[Inventory Management System](https://github.com/keren3-alpha/mayondo.git)**  
   A Django-based system to track stock, sales, and product records.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godi-keren-alpha-3561b237a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keren3-alpha)
@@ -60,4 +61,4 @@ I'm a Software Engineering graduate from Refactory Academy (Uganda) with a passi
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to reach out or check out my work.*
+ *Thanks for visiting my profile! Feel free to reach out or check out my work. Godi Keren Alpha*
